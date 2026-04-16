@@ -1,4 +1,6 @@
-# Godot Docs LLM Converter
+# Godot Docs LLM Converter (DEPRECATED)
+
+**THIS PROJECT IS NOW OBSOLETE, USE THE [mcp-server](https://github.com/Zei33/godot-mcp) INSTEAD. IT IS SIGNIFICANTLY IMPROVED AND MORE PRACTICAL FOR TOKEN USAGE!**
 
 A complete TypeScript solution that automatically converts Godot documentation from RST format to clean, LLM-friendly Markdown. Designed specifically for use as context rules in Cursor and other AI-powered development tools.
 
